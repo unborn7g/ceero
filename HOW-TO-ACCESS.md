@@ -1,5 +1,12 @@
 # How to access the CeeRO store
 
+## 0. The permanent link
+**https://unborn7g.github.io/ceero/** — the storefront.
+**https://unborn7g.github.io/ceero/plan/** — the master plan.
+
+Both are plain GitHub Pages, free, no account needed to view. See
+`PUBLISH-TO-GITHUB.md` for the push steps if the site is not live yet.
+
 ## 1. Right now — live preview (easiest)
 The store is running on a live server in this workspace. Open the **Live Preview** panel beside this conversation and choose **CeeRO storefront**. It is a real HTTP URL you can open on your phone too.
 
